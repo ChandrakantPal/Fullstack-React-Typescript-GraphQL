@@ -11,7 +11,6 @@ const Navbar = () => {
     pause: isServer(),
   })
 
-  //   console.log({ data })
 
   let body = null
 
